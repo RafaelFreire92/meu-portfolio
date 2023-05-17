@@ -18,9 +18,9 @@ Escreva uma descrição bem detalhada e introdutória.
 
 ### Sobre Mim:
 
-Sou Carlos Melo, Piloto Militar da Força Aérea Brasileira e Engenheiro de Missão de Satélite no Centro de Operações Espaciais (COPE), em Brasília-DF. Também sou o autor do *blog* [sigmoidal.ai](http://sigmoidal.ai), focado em Data Science, Deep Learning e Pyhton.
+Sou Rafael Freire, Administrador por formação e futuro Cientisda de Dados por paixão.
 
-* Graduação em Ciências Aeronáuticas pela AFA.
-* Mestrado em Ciências e Tecnologias Espaciais pelo ITA.
-* MBA em Gestão de Projetos e Processos pela UNIFA.
-* Curso de Operações Espaciais pela Força Aérea Canadense.
+* Graduação em Admnistraçõ pela UNIFOR.
+* Graduando em Aálise e Desenvolvimento de Sistemas.
+* MBA em Big Data e inteligência Competitiva pela Descomplica.
+
