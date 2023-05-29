@@ -21,6 +21,6 @@ Escreva uma descrição bem detalhada e introdutória.
 Sou Rafael Freire, Administrador por formação e futuro Cientisda de Dados por paixão.
 
 * Graduação em Admnistraçõ pela UNIFOR.
-* Graduando em Aálise e Desenvolvimento de Sistemas.
+* Graduando em Análise e Desenvolvimento de Sistemas.
 * MBA em Big Data e inteligência Competitiva pela Descomplica.
 
