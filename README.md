@@ -7,11 +7,11 @@ Coloque uma descrição sobre sua carreira, projetos e o que se pode esperar des
 Escreva uma descrição bem detalhada e introdutória.
 
 * [LinkedIn](https://br.linkedin.com/in/rafael-freire//)
-* [Blog](https://sigmoidal.ai)
+
 
 ## Projetos de Data Science
 
-* **PROJETO 1:** [Nome do Projeto 1](https://github.com/carlosfab/)
+* **PROJETO 1:** [Rocket House](https://github.com/RafaelFreire92/rocket-house-project)
 * **PROJETO 2:**  [Nome do Projeto 2](https://github.com/carlosfab/)
 
 ---
@@ -21,6 +21,6 @@ Escreva uma descrição bem detalhada e introdutória.
 Sou Rafael Freire, Administrador por formação e futuro Cientisda de Dados por paixão.
 
 * Graduação em Admnistraçõ pela UNIFOR.
-* Graduando em Análise e Desenvolvimento de Sistemas.
+* Graduando em Ciência de Dados.
 * MBA em Big Data e inteligência Competitiva pela Descomplica.
 
